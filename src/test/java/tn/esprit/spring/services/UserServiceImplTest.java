@@ -9,9 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import java.util.List;
-
-// You need to import the User class if it's in a different package. 
-// If it's in the tn.esprit.spring.services package, you won't need to import it.
+import tn.esprit.spring.entities.User;
 
 @SpringBootTest
 @TestMethodOrder(OrderAnnotation.class)
