@@ -1,8 +1,8 @@
 import org.junit jupiter.api-Assertions;
-import org.junit.jupiter.api. MethodOrderer.OrderAnnotation;
+import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
 import org.junit.jupiter.api.Order;
-import org.junit jupiter.api.lest;
-import org.junit jupiter.api.Test MethodOrder;
+import org.junit.jupiter.api.lest;
+import org.junit.jupiter.api.Test MethodOrder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
