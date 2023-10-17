@@ -1,8 +1,7 @@
 package tn.esprit.spring.services;
-//import tn.esprit.spring.entities.User;
-//import tn.esprit.spring.repository.UserRepository;
+import tn.esprit.spring.entities.User;
+import tn.esprit.spring.repository.UserRepository;
 import org.junit.jupiter.api.Test;
-import tn.*;
 import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
 import org.junit.jupiter.api.TestMethodOrder;
 import org.junit.jupiter.api.extension.ExtendWith;
